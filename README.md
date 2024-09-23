@@ -20,7 +20,6 @@ Welcome to my GitHub! I'm a mechanical engineering designer with a passion for p
 ### 🔧 Technologies & Tools I Use:
 - Mechanical Design: **NX**, **Inventor**
 - Coding: **Python**, **Scrapy**, **Elasticsearch**, **Docker**
-- Web scraping & data handling in **Persian** text
 - Passionate about **project management** and the technical depth behind every decision.
 
 ---
@@ -42,6 +41,14 @@ Welcome to my GitHub! I'm a mechanical engineering designer with a passion for p
 - Designing solutions that blend **engineering** with **software development**.
 - Exploring how mechanical design workflows can benefit from automation and data-driven insights.
 - Continuously learning how to improve my focus and productivity—finding the balance between work and mental well-being.
+
+---
+
+### 🏞️ Hobbies:
+- When I'm not working on engineering projects or coding, I love spending time outdoors.
+  - **Hiking**: I enjoy exploring nature and challenging myself with new trails.
+  - **Canyoneering** (or canyoning): Navigating through canyons and rappelling down cliffs is something I find exhilarating.
+- These activities help me recharge and keep a balanced mindset for tackling work challenges.
 
 ---
 
