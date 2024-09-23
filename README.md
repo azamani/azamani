@@ -19,9 +19,17 @@ Welcome to my GitHub! I'm a mechanical engineering designer with a passion for p
 
 ### 🔧 Technologies & Tools I Use:
 - Mechanical Design: **NX**, **Inventor**
-- Coding: **Python**, **Jupyterlab
+- Coding: **Python**, **Scrapy**, **Elasticsearch**, **Docker**
+- Web scraping & data handling in **Persian** text
 - Passionate about **project management** and the technical depth behind every decision.
 
+---
+
+### 🌐 IoT & Industry 4.0: Passion for Data-Driven Industrial Solutions
+- I’m deeply passionate about the possibilities that **Internet of Things (IoT)** and **Industry 4.0** bring to the industrial world.
+- The ability to generate and analyze **industrial data** to optimize processes, increase efficiency, and predict maintenance excites me.
+- **Smart manufacturing**, **sensor networks**, and **real-time data analysis** are areas I believe can revolutionize traditional industries and I’m actively exploring how to integrate these technologies into design and engineering workflows.
+  
 ---
 
 ### 🌱 What I’m Learning:
