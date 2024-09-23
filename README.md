@@ -40,5 +40,3 @@ Welcome to my GitHub! I'm a mechanical engineering designer with a passion for p
 ### 📫 Let's Connect:
 - I’m always open to learning and collaborating. Feel free to reach out to me!
 - **Email**: alizamani@live.com
-
----
