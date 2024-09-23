@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a mechanical engineering designer with a passion for p
 ### 🏞️ Hobbies:
 - When I'm not working on engineering projects or coding, I love spending time outdoors.
   - **Hiking**: I enjoy exploring nature and challenging myself with new trails.
-  - **Canyoneering** (or canyoning): Navigating through canyons and rappelling down cliffs is something I find exhilarating.
+  - **Canyoneering**: Navigating through canyons and rappelling down cliffs is something I find exhilarating.
 - These activities help me recharge and keep a balanced mindset for tackling work challenges.
 
 ---
