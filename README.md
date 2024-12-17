@@ -4,12 +4,6 @@ Welcome to my GitHub! I'm a mechanical engineering designer with a passion for p
 
 ---
 
-### 🚀 What I’m Working On:
-- Currently interning in a small team where I’m learning and contributing to projects that aim to build quant-capable solutions for finance.
-- Exploring how engineering principles can be applied to coding workflows and automations.
-
----
-
 ### 💡 What Excites Me:
 - I love **digging into design calculations**, understanding governing formulas, and ensuring projects run smoothly by considering all possible factors and risks.
 - I’m intrigued by the **intersection of engineering, data science**, and how they can solve real-world problems.
